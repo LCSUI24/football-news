@@ -4,7 +4,7 @@ from django.shortcuts import render
 
 def show_main(request):
     context = {
-        'app' : 'Football Sho[]',
+        'npm' : 'Football News',
         'name': 'Cyrillo Praditya Soeharto',
         'class': 'PBP B'
     }
